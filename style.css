@@ -145,7 +145,7 @@ ul.main-menu li a.active {
   gap: 20px;
   padding: 5px;
   width: 70%;
-
+  margin: 0 auto;
 }
 
 
