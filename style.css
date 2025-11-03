@@ -140,5 +140,13 @@ ul.main-menu li a.active {
   display:block;
 }
 
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 5px;
+  width: 70%;
+
+}
+
 
 
