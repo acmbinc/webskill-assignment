@@ -142,8 +142,7 @@ ul.main-menu li a.active {
 
 .container {
   display: flex;
-  gap: 20px;
-  padding: 5px;
+  gap: 20px;=
   width: 70%;
   margin: 0 auto;
 }
